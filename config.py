@@ -4,8 +4,8 @@
 MODEL_NAME = "gpt2"  # or "distilgpt2" or any tiny model you prefer
 
 # Generation / decoding settings
-MAX_NEW_TOKENS = 64
-TEMPERATURE = 0.7
+MAX_NEW_TOKENS = 50
+TEMPERATURE = 0.9
 TOP_P = 0.9
 TOP_K = 50
 DO_SAMPLE = True
