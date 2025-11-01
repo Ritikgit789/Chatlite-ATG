@@ -1,0 +1,331 @@
+[
+  {
+    "type": "CREDIT",
+    "amount": "5000.00",
+    "baalance": "5000.00",
+    "narration": "SALARY/ABC SOLUTIONS/NEFT/Payroll May",
+    "date": "2023-05-01"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "150.00",
+    "baalance": "4850.00",
+    "narration": "UPI/merchant@okhdfcbank/coffee",
+    "date": "2023-05-02"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "800.00",
+    "baalance": "4050.00",
+    "narration": "Rent/NEFT/landlord",
+    "date": "2023-05-03"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "250.00",
+    "baalance": "3800.00",
+    "narration": "Paytm Recharge/mobile",
+    "date": "2023-05-05"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "120.00",
+    "baalance": "3680.00",
+    "narration": "UPI/grocery@okaxis",
+    "date": "2023-05-06"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "300.00",
+    "baalance": "3980.00",
+    "narration": "Personal From Ramesh/personal",
+    "date": "2023-05-08"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "50.00",
+    "baalance": "3930.00",
+    "narration": "Tea Stall/UPI/bla bla",
+    "date": "2023-05-09"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "200.00",
+    "baalance": "3730.00",
+    "narration": "IMPS Transfer/to Friend",
+    "date": "2023-05-10"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "600.00",
+    "baalance": "3130.00",
+    "narration": "Electronics Store/POS Purchase",
+    "date": "2023-05-12"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "130.00",
+    "baalance": "3000.00",
+    "narration": "Paytm/auto debit OTT",
+    "date": "2023-05-14"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "100.00",
+    "baalance": "3100.00",
+    "narration": "Cash Deposit",
+    "date": "2023-05-16"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "250.00",
+    "baalance": "2850.00",
+    "narration": "UPI/Food Delivery",
+    "date": "2023-05-18"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "4800.00",
+    "baalance": "7650.00",
+    "narration": "SALARY/ABC SOLUTIONS/IMPS/June Payroll",
+    "date": "2023-06-01"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "300.00",
+    "baalance": "7350.00",
+    "narration": "Grocery Store/UPI",
+    "date": "2023-06-02"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "800.00",
+    "baalance": "6550.00",
+    "narration": "Rent Payment/NEFT",
+    "date": "2023-06-03"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "100.00",
+    "baalance": "6450.00",
+    "narration": "Auto fare UPI/bla",
+    "date": "2023-06-04"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "60.00",
+    "baalance": "6390.00",
+    "narration": "Paytm QR/Coffee",
+    "date": "2023-06-06"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "200.00",
+    "baalance": "6590.00",
+    "narration": "Refund NEFT/order cancel",
+    "date": "2023-06-07"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "400.00",
+    "baalance": "6190.00",
+    "narration": "IMPS/personal transfer",
+    "date": "2023-06-09"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "250.00",
+    "baalance": "5940.00",
+    "narration": "UPI Restaurant",
+    "date": "2023-06-10"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "5000.00",
+    "baalance": "10940.00",
+    "narration": "SALARY/ABC SOLUTIONS/NEFT/July Payroll",
+    "date": "2023-07-03"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "750.00",
+    "baalance": "10190.00",
+    "narration": "Rent Transfer/NEFT",
+    "date": "2023-07-04"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "200.00",
+    "baalance": "9990.00",
+    "narration": "Groceries UPI",
+    "date": "2023-07-05"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "90.00",
+    "baalance": "9900.00",
+    "narration": "Paytm Recharge",
+    "date": "2023-07-06"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "50.00",
+    "baalance": "9850.00",
+    "narration": "Tea Stall",
+    "date": "2023-07-07"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "100.00",
+    "baalance": "9950.00",
+    "narration": "Personal Received from Arjun",
+    "date": "2023-07-09"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "300.00",
+    "baalance": "9650.00",
+    "narration": "UPI Shopping/Online",
+    "date": "2023-07-10"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "4500.00",
+    "baalance": "14150.00",
+    "narration": "SALARY/ABC SOLUTIONS/BANK TRANSFER/Aug Payroll",
+    "date": "2023-08-01"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "850.00",
+    "baalance": "13300.00",
+    "narration": "Rent/NEFT",
+    "date": "2023-08-02"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "180.00",
+    "baalance": "13120.00",
+    "narration": "Paytm Recharge",
+    "date": "2023-08-03"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "200.00",
+    "baalance": "12920.00",
+    "narration": "UPI/Grocery",
+    "date": "2023-08-04"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "75.00",
+    "baalance": "12845.00",
+    "narration": "Tea Shop/UPI",
+    "date": "2023-08-05"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "100.00",
+    "baalance": "12945.00",
+    "narration": "Refund/NEFT",
+    "date": "2023-08-06"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "250.00",
+    "baalance": "12695.00",
+    "narration": "UPI/Food Delivery",
+    "date": "2023-08-07"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "4700.00",
+    "baalance": "17395.00",
+    "narration": "SALARY/ABC SOLUTIONS/IMPS/Sept Payroll",
+    "date": "2023-09-04"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "800.00",
+    "baalance": "16595.00",
+    "narration": "Rent Payment/NEFT",
+    "date": "2023-09-05"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "160.00",
+    "baalance": "16435.00",
+    "narration": "UPI/Grocery",
+    "date": "2023-09-06"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "90.00",
+    "baalance": "16345.00",
+    "narration": "Paytm Recharge",
+    "date": "2023-09-07"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "250.00",
+    "baalance": "16595.00",
+    "narration": "Personal From Ramesh/personal",
+    "date": "2023-09-08"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "100.00",
+    "baalance": "16495.00",
+    "narration": "Tea Shop/UPI",
+    "date": "2023-09-09"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "5000.00",
+    "baalance": "21495.00",
+    "narration": "SALARY/ABC SOLUTIONS/NEFT/Oct Payroll",
+    "date": "2023-10-01"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "900.00",
+    "baalance": "20595.00",
+    "narration": "Rent Payment",
+    "date": "2023-10-02"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "250.00",
+    "baalance": "20345.00",
+    "narration": "Grocery Store/UPI",
+    "date": "2023-10-03"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "60.00",
+    "baalance": "20285.00",
+    "narration": "Paytm Recharge",
+    "date": "2023-10-04"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "120.00",
+    "baalance": "20165.00",
+    "narration": "Snacks Shop/UPI",
+    "date": "2023-10-05"
+  },
+  {
+    "type": "CREDIT",
+    "amount": "200.00",
+    "baalance": "20365.00",
+    "narration": "Personal From Brother/personal",
+    "date": "2023-10-06"
+  },
+  {
+    "type": "DEBIT",
+    "amount": "100.00",
+    "baalance": "20265.00",
+    "narration": "Auto Fare/UPI",
+    "date": "2023-10-07"
+  }
+]
